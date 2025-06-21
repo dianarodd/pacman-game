@@ -1,4 +1,4 @@
-# Pacman Game
+# Pacman Game 👻🕹️
 
 El juego consiste en...
 
