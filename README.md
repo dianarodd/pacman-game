@@ -16,3 +16,7 @@ El juego muestra en pantalla la **puntuación** actual 🏅, guarda el **récord
 - Young, Rodrigo
 - Su Mendez, José 
 - Rodríguez Ruiz, Diana 
+
+## Nota importante:
+
+La versión final se encuentra en la carpeta ``código ``, donde se hizo una modularización del código con la finalidad de que esté más organizado usando los archivos ``PacMan.cpp``, ``Pacman.h``, así como también ``melodía.h`` y ``notas.h``. La simulación es el archivo ``simulacion.pdsprj`` que está fuera de las carpetas.
